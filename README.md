@@ -1,3 +1,3 @@
-Grupo: Gabrieli Souza Jordão 5167780;
-Ester Araujo da Silva 5170602;
-João Victor Costa Silva 5170603;
+Grupo: 
+Harttur Oliveira Pimenta 5170324;
+Gabriel Henrique Miranda 5168729;
